@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Bonjour et bienvenue sur mon profil GitHub ! 👋
 
 ## Portfolio Personnel 👋
