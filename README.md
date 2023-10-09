@@ -1,6 +1,6 @@
-### Portfolio Personnel 👋
+## Portfolio Personnel 👋
 
-## Mon portfolio personnel en ligne pour présenter mes compétences en développement d'applications Python.
+### Mon portfolio personnel en ligne pour présenter mes compétences en développement d'applications Python.
 
 
 
