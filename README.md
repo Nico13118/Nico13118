@@ -1,4 +1,11 @@
-### Hi there 👋
+### Portfolio Personnel 👋
+
+## Mon portfolio personnel en ligne pour présenter mes compétences en développement d'applications Python.
+
+
+
+
+
 
 <!--
 **Nico13118/Nico13118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
