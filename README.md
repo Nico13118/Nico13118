@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ## Bonjour et bienvenue sur mon profil GitHub ! 👋
+
+## Portfolio Personnel 👋
+
+### Mon portfolio personnel en ligne pour présenter mes compétences en développement d'applications Python.
+
 
 Je suis actuellement étudiant en développement d'applications Python et je suis ravi de vous présenter  
 mon portfolio personnel en ligne. Ce portfolio a été créé dans le but de mettre en avant mes compétences en développement  
