@@ -28,14 +28,27 @@ L'affiche du film qui a reçu le meilleur score IMDB et votes toutes catégories
 Un carrousel contenant une liste de films ayant reçu les meilleurs scores sur IMDB, triés par date de sortie. 
 Trois autres carrousels de catégories différentes triés par date de sortie.
 - Technologie utilisées : HTML, CSS, vanilla JavaScript, requête ajax/fetch
-  
-4. Projet9_V2 [Application de Critiques de Livres](https://github.com/Nico13118/Projet9_V2)
+
+4. Projet7_V2 [Algorithme de Maximisation de Bénéfices](https://github.com/Nico13118/Projet7_V2)
+- Description :
+Algorithmes visant à maximiser les bénéfices financiers en analysant un fichier au format CSV.
+Trois algorithmes sont disponibles, chacun offrant des résultats et des temps d'exécution différents.
+- Technologies utilisées : Python, Algorithme force brute, Algorithme dynamique. 
+
+
+5. Projet9_V2 [Application de Critiques de Livres](https://github.com/Nico13118/Projet9_V2)
 - Description :
 Une application web développée avec Django qui permet aux utilisateurs de demander ou de publier des critiques de livres ou d'articles.
 Cette application offre des fonctionnalités de création de comptes utilisateur, de publication de critiques et de suivi d'utilisateurs.
 - Technologies utilisées : Django, Python, HTML, CSS.
 
 
+6. Projet11 [Améliorez une application Web Python par des tests et du débogage](https://github.com/Nico13118/Projet11)
+- Description :
+Ce projet vise à créer une application web Python plus légère et moins couteuse qui sera dédiée à la gestion de compétitions entre clubs. L'objectif est de tester les fonctionnalités, de corriger les dysfonctionnements et de tester les performances de cette applications web. 
+- Technologies utilisées : Python, Flask, pytest, locust
+
+  
 <!--
 **Nico13118/Nico13118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
