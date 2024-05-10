@@ -46,7 +46,7 @@ Cette application offre des fonctionnalités de création de comptes utilisateur
 6. Projet11 [Améliorez une application Web Python par des tests et du débogage](https://github.com/Nico13118/Projet11)
 - Description :
 Ce projet vise à créer une application web Python plus légère et moins couteuse qui sera dédiée à la gestion de compétitions entre clubs. L'objectif est de tester les fonctionnalités, de corriger les dysfonctionnements et de tester les performances de cette applications web. 
-- Technologies utilisées : Python, Flask, pytest, locust
+- Technologies utilisées : Python, Flask, HTML, pytest, locust
 
   
 <!--
